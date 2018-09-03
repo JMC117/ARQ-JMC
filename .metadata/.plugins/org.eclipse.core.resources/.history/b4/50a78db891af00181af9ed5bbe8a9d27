@@ -1,0 +1,19 @@
+package controller;
+
+import model.Dao.RegistroDao;
+import model.Dto.Registro;
+
+public class ControladorRegistro {
+
+	public boolean CrearReg(float hume, float temp) {
+		boolean bool;
+		Registro reg = new Registro();
+		RegistroDao regDao = new RegistroDao();
+		
+		
+
+		return bool;
+
+	}
+
+}

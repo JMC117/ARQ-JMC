@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Juan Montañez\ProyectoArq\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2616045636.index
+1856924895.index
+3829628843.index
+2651395192.index
+2345246568.index
+40103445.index
